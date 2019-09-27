@@ -3,7 +3,7 @@
 * VR/AR applications in tourism
 * James Yao 
 * 2236131 
-* Dr Lewis Mackenzie and Dr Soum. Chowdhury 
+* Dr Lewis Mackenzie and Dr Soumyadeb Chowdhury 
 
 ## Week 1
 
