@@ -24,5 +24,13 @@
 
 ### 27th Sept 2019
 
-* *1 hour* Set up a personal github repository for the project
-// Not finished with today
+* *0.5 hours* Set up a personal github repository for the project
+* *0.5 hours* Realized I have to download a compatible version of unity to try out old project
+* *2 hours* (not sure if I should add this) Wasted before I realised that the old project was not compatible with the latest version of unity, causing it to break
+
+
+## Week 2
+
+### 1st Oct 2019
+
+* *3 hours* Finally amnaged to build and try out the project from last year
