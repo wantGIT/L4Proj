@@ -34,3 +34,8 @@
 ### 1st Oct 2019
 
 * *3 hours* Finally amnaged to build and try out the project from last year
+
+## Week 3
+
+### 8th Oct 2019
+* *4 hours* Followed a tutorial to download the necessary assets and created a simple scene in unity
