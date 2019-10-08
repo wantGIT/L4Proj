@@ -39,3 +39,4 @@
 
 ### 8th Oct 2019
 * *4 hours* Followed a tutorial to download the necessary assets and created a simple scene in unity
+* *1 hour* Attempted to debug why the simple scene would not work on the phone :(
