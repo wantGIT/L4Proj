@@ -43,3 +43,8 @@
 
 ### 11th Oct 2019
 * *1 hour* Spoke with project supervisor
+
+## Week 4
+
+### 15th Oct 2019
+* *1 hour* Started trying to remake a basic scene in 2017 version of unity
