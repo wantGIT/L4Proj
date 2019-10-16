@@ -48,3 +48,7 @@
 
 ### 15th Oct 2019
 * *1 hour* Started trying to remake a basic scene in 2017 version of unity
+
+### 16th Oct 2019
+* *3 hours* Finished remaking the basic scene in the 2017 version of unity
+* *1 hour* Downloaded and started reading articles relating to the project
